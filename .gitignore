@@ -19,3 +19,6 @@ frontend/.env
 .pytest_cache/
 .idea/
 .vscode/
+
+# Local installer tools
+.tools/
